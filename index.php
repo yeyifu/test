@@ -1,3 +1,4 @@
 <?php
-echo "phpinfo()";
+echo '/data/webdata/test/index.php';
+echo phpinfo();
 ?>
